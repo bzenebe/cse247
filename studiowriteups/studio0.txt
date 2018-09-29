@@ -24,20 +24,23 @@ Question PS4:
 Question PS5: 
 	
 Question A1:
+	After the first two ticks, the graph generally follows a consistent horizontal linear pattern.
+	This suggests that there is a constant function in our code that would create this pattern.Same amount of ticks for 
+	each iteration.
+Question A2: The data tells us that there is a linear function available. The value of this.n is important in 
+knowing how fast the function progresses. 
 	
-Question A2:
+Question A3:The for loop makes the function run a constant number of times regardless of the functions occurring outside that parameter.
 	
-Question A3:
-	
-Question A4:
+Question A4:ticker.ticks is reflecting the value of n each time, whereas the second graph is adding the numbers of the ticks. 
 
-Question A5:
+Question A5:the fewest number is 2, when tally has to make 2 marks and the decimal notation only needs one.log base 2n in binary.
 
-Question A6:
+Question A6: Um.
 
-Question A7:
+Question A7:difference between decimal and binary doesnt matter as much. Thus it is more important to choose binary or decimal over unary
 	
-Question C1:
+Question C1:Constant time for both, second one less wobbly
 
 Question C2:
 

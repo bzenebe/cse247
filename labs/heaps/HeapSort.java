@@ -1,7 +1,6 @@
 package heaps;
 
 import timing.Algorithm;
-import timing.Ticker;
 
 public class HeapSort implements Algorithm<Integer[],Integer[]> {
 	

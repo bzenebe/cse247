@@ -5,17 +5,8 @@ import java.util.LinkedList;
 import java.util.List;
 
 import timing.output.Output;
+import timing.Algorithm;
 
-/**
- * 
- * @author roncytron
- * 
- * Allows runs of an algorithm for a specific input size.
- * This is used for generating timing profiles for an algorithm.
- *
- * @param <T> Input type for the algorithm
- * @param <U> Output type for the algorithm
- */
 public class ExecuteAlgorithm<T,U> {
 
 	private final static int NUMREPEATS = 3;
